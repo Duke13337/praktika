@@ -26,3 +26,5 @@
    docker-compose up --build
 3.Приложение будет доступно по адресу:
 🔗 http://localhost:8000/docs
+
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/db0e5d56-4571-4678-8aeb-18172f3d6231" />
