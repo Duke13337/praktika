@@ -20,7 +20,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone <ссылка_на_твой_репозиторий>
+   git clone https://github.com/Duke13337/praktika.git
 2. Запустите проект (сборка контейнеров):
    ```bash
    docker-compose up --build
